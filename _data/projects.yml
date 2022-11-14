@@ -1,0 +1,35 @@
+
+# Project template
+
+- layout: top-middle
+  name: Bearcat Studdy Buddy | August 2021 - Jan 2021
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    We intend to build a progressive web application that would be a solo place where students would be able to track the upcoming assignments, class tasks in an easy way . This tool allows students to even check for updates in the calendar about upcoming to-do lists, memo functionality. This tool will also provide the flexibility for the students to customize the look of the application based on their own choice of themes.The project was implement by Node.js with mongodb in the backend and React.js in the front-end.
+    
+  description: | # this will include new lines to allow paragraphs
+  # Project template
+
+- layout: top-middle
+  name: Contact Picker app using android | August 2015 - June 2016
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    An Android Application which would be very helpful in case of we miss our phone at home and we want the contact numbers  of one particular person from that phone at that instant of time from any mobile we can send a text message with the contact name saved to our mobile and it will send us back the contact number. Even added the enhancements to bring the messages as well and in case if we don’t remember exact name of the contact we can also send the starting letter of that particular contact saved it will fetch you all the contact numbers which begins with that particular letter.
+    
+  description: | # this will include new lines to allow paragraphs
+  # Project template
+
+- layout: top-middle
+  name: Phone Mode Changer in Android | June 2014 - August 2015
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    
+    An Android Application to change the mode of phone from silent to general with the passcode as a message to be sent to the phone whose mode should be changed.
+    
+  description: | # this will include new lines to allow paragraphs
+ # Project template
