@@ -1,15 +1,15 @@
 # Personal info
-name: Priyanka Maruthi
-title: MS in Applied Computer Science
-email: maruthipriyanka1011@gmail.com
-LinkedIn: https://www.linkedin.com/in/priyanka-maruthi-981872113/
+name: Omkara Chari Thatikonda
+title: MS in Information Systems
+email: omkarthatikonda79@gmail.com
+LinkedIn: 
 #website: www.github.com/sproogen/resume-theme
 # Site
-repository: https://github.com/Maruthi158/Maruthi158.github.io
+repository: https://github.com/OMKAR190499/OMKAR190499.github.io
 #favicon: images/favicon.ico
 # Social links
 #twitter_username: facespics
-github_username:  Maruthi158
+github_username:  OMKAR190499
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -22,9 +22,9 @@ github_username:  Maruthi158
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  - Hi, I am Priyanka Maruthi.
-  - Currently pursuing Master in Applied Computer Science from NorthWest Missouri State University, Missouri with the distinction of GPA of 4.
-  - I am an experienced professional with having 4.5+ years in software development. Skilled in Python, SQL, Tableau, AWS,java,Node.js,React.js,Html,Css and Databases. 
+  - Hi, I am Omkara Chari Thatikonda.
+  - Currently pursuing Master in Information Systems from Trine University, Michigan with the GPA of 3.8.
+  - I am an experienced professional with having 1+ years in software development. Skilled in Python, SQL, Tableau, AWS,java,Node.js,React.js,Html,Css and Databases. 
   - I am a very quick learner and very versatile in cloud Technologies. 
   - I am looking for a Full-time Full-Stack Developer/Data Analyst  opportunity.
   
@@ -33,7 +33,6 @@ about_content: | # this will include new lines to allow paragraphs
   - Developing web application and services 
   - Advanced Topics in Database Systems
   - Data visualization in Tableau 
-  - Mobile Computing - iOS
   - Project Management in Business & Technology 
   - Application Design Patterns & Frameworks in java 
   
@@ -42,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   - An effective communicator with strong interpersonal skills
   - Collaborate with stakeholders and interact cross-functionally to conduct end-to-end analysis.
   - Translate and communicate insights as concrete and actionable recommendations for the business.
-  - LinkedIn: https://www.linkedin.com/in/priyanka-maruthi-981872113/
+ 
  
 
   Scroll down to learn more about me!
@@ -63,7 +62,8 @@ more_content: | # this will include new lines to allow paragraphs
 # Others Section
 others_title: Certificates and Leadership
 others_content: | # this will include new lines to allow paragraphs
-   - Oracle Certified Expert Database SQL.
+   - Java Certified.
+   - AWS  Certified.
    
     
 
