@@ -1,26 +1,37 @@
 # Experience template
 - layout: left
-  company: NorthWest Missouri State University 
-  job_title: Graduate Administrative Assistant
-  dates:  May 2021- Present
+  company: Eficens Systems LLC 
+  job_title: Sr.Full Stack Developer
+  dates:  May 2022- Present
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
   
       **Responsibilities**
    
-       - Data Preprocessing, wrangling the data using ETL(Extraction, Transformation, and Loading) with the help of Microsoft Excel, Vlookups, Pivot tables and analyzes the data.
-       - Develops the tables, visuals and charts from the raw data using Tableau and Microsoft Excel for data storytelling in the Final Quater Reports.
-       - Generated reports and surveys both using Statistics Table visualization using Qualtrics.
-       - Serve as an Advisor and assist students and guide them related to the academic programs offered during open office advising hours.
-       - Website updates for the coursework of the master’s in applied computer science to update with current requirements.
+       - Functionalities include writing code in HTML5, CSS3, JavaScript, Angular 1.x, Angular 2 Node.js and jQuery making use of bootstrap frameworks. My specialty is large scale CSS focusing on reusability and modularity.
+       - Developed the UI Component architecture for developer framework using Angular4, TypeScript, HTML5, CSS3 and Bootstrap. Created custom, self-contained, reusable and testable Angular 4 modules, Controllers, directives and services to implement key functionalities for customer account summary.
+       - Designed and Developed the UI using strut’s view component, JSP, HTML, CSS and JavaScript. Used JavaScript, jQuery for user interaction in pages. Creating a responsive web application integrating twitter bootstrap with AngularJs.
+       - Architect designed new web UI/UX application using AngularJs experience in implementing AngularJs best practices in performance tuning web applications and in the development, implementation of service-oriented architecture process standards, procedures and guidelines using agile methodology.
+       - Used Angular component-based architecture to integrate services to consume RESTful API’S. Worked with Angular.JS, Angular Flux and Redux architecture using complex object-oriented concepts improving the performance of websites.
+       - Created various unit test cases using to test pipes, services, components with jasmine and karma. Performed Test Driven Development (TDD) thereby creating detailed Junit tests for every single piece of functionality before writing the actual functionality and used Mockito for Behavior Driven Development (BDD).
+       - Maintain Interface compatibility and concurrency in the project using java 8 new features like default, static methods and Concurrency API. Used Java8 Method References feature to point to methods by their names, used functional Interfaces.
+       - Migrated SOAP Web service resources to Spring RESTful web services resources using Spring REST API with Spring Boot.
+       - Developed Spring boot based microservices in Docker and Amazon EC2 container using Jenkins. Developed microservices using Spring MVC, Spring Boot and Spring Cloud. Have been using microservices architecture with spring boot-based services interacting through a combination of REST and Spring Boot.
+       - Experienced in finding root cause of Apache/EWS/IHS web server, Jboss/WebSphere application server, CA Web agent.
+       - Configuring windows APIGEE servers using FTP and HTTP protocols. Using APIGEE configuration and generated proxies service discovery definition, telemetry definition, logging and security.
+       - Creating and consuming JSON-formatted data, the @RestController interface was used to expose rest APIs. knowledge of using @ResponseStatus annotations when developing web services with Spring Rest.
+       - Worked closely with web administrators to set up an automated deployment for SharePoint applications using SVN and GIT.
+       - Worked on AWS, managing the continuous delivery systems and techniques as well as deploying, maintaining, and running scalable, highly available, and fault tolerant systems (AWS).
+       
+
        
 
 # Experience template
 - layout: left
-  company: NorthWest Missouri State University
+  company: Trine University
   job_title: Graduate Teaching Assistant 
-  dates:  Jan 2021- Present
+  dates:  Aug 2021- May 2022
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
@@ -33,43 +44,3 @@
        - Assisting and helping students to learn the swift concepts
 
 
-# Experience template
-- layout: left
-  company: NorthWest Missouri State University
-  job_title: Graduate Teaching Assistant 
-  dates: Aug 2021- Jan 2021
-  #quote: >
-  # Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-  
-      **Responsibilities**
-       
-        - Worked as the Graduated Teaching assitant for a course java
-       - Preparation of interactive assignments for students so that it would help students to learn the concepts in a very efficient way
-       - Assisting Professor to help the students to participate in the interactive learning.
-       - Assisting and helping students to learn the java concepts
-
-     
-# Experience template
-- layout: left
-  company: TATA Consultancy Services(TCS)
-  job_title: Full Stack Developer
-  dates: June 2016 - December 2020
-  #quote: >
-  # Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-  
-     **Responsibilities**
-     
-     - Having 4.5 years of experience in which 2.3 years of relevant experience in Amazon web services Platform and around 1.7 years of experience in customization of Oracle Applications R12.
-     - Proficient in handling on Microsoft office tools.
-     - Designed and developed AWS cloud projects using various utilities like redshift, S3, ec2, MY SQL, cloudberry.
-     - Good exposure to Continuous Integration and Delivery tools surrounding Any point Platform. Used CI/CD tools like Jenkins. Hands on experience on deploying code through Jenkins.
-     - Good at Redshift, MY SQL to write the queries and create the jobs to load the data. 
-     - Working knowledge of AWS components using Jenkins.
-     - Working knowledge on AWS Core Services.
-     - Hands on experience in consuming as well as developing components using S3, ec2, redshift, MYSQL.
-     - Strong knowledge and hands on experience in documenting and designing the work.
-     - Worked in Agile Methodology.
-     - Had an experience on Deployment using Jenkins and Bitbucket.
-     - Ability to code to implement essential security measures.
