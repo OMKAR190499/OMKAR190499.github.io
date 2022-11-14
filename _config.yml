@@ -1,0 +1,85 @@
+# Personal info
+name: Priyanka Maruthi
+title: MS in Applied Computer Science
+email: maruthipriyanka1011@gmail.com
+LinkedIn: https://www.linkedin.com/in/priyanka-maruthi-981872113/
+#website: www.github.com/sproogen/resume-theme
+# Site
+repository: https://github.com/Maruthi158/Maruthi158.github.io
+#favicon: images/favicon.ico
+# Social links
+#twitter_username: facespics
+github_username:  Maruthi158
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: chillwildlife
+#linkedin_username: https://www.linkedin.com/in/sanjana-kulshrestha-2008
+#medium_username: medium.com/@sanjana.kul2008
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  - Hi, I am Priyanka Maruthi.
+  - Currently pursuing Master in Applied Computer Science from NorthWest Missouri State University, Missouri with the distinction of GPA of 4.
+  - I am an experienced professional with having 4.5+ years in software development. Skilled in Python, SQL, Tableau, AWS,java,Node.js,React.js,Html,Css and Databases. 
+  - I am a very quick learner and very versatile in cloud Technologies. 
+  - I am looking for a Full-time Full-Stack Developer/Data Analyst  opportunity.
+  
+  Expertise:
+  - Java(object oriented Programming) 
+  - Developing web application and services 
+  - Advanced Topics in Database Systems
+  - Data visualization in Tableau 
+  - Mobile Computing - iOS
+  - Project Management in Business & Technology 
+  - Application Design Patterns & Frameworks in java 
+  
+  Strength:
+  - Ability to solve complex problems and work with multiple data-sets by leveraging relevant tools.
+  - An effective communicator with strong interpersonal skills
+  - Collaborate with stakeholders and interact cross-functionally to conduct end-to-end analysis.
+  - Translate and communicate insights as concrete and actionable recommendations for the business.
+  - LinkedIn: https://www.linkedin.com/in/priyanka-maruthi-981872113/
+ 
+
+  Scroll down to learn more about me!
+
+
+
+more_content: | # this will include new lines to allow paragraphs
+   - **Programming** **Languages**: Java, Python, C++, SQL, Node.js,Redshift,Swift
+   - **Data Visualization**: Excel, Tableau, PowerBI.
+   - **BI and Reporting tools**: MS Power BI, Tableau, Excel VBA, VLOOKUP, Pivot Table, Macros
+   - **Database**: MS Access, Oracle SQL developer, MYSQL, MS SQL, No SQL
+   - **ETL Tools**: MS SSIS, IBM Infosphere Information Server
+   - **Web Analytics**: Google Analytics
+   - **Statistical and Analytics techniques**: Advanced SQL queries,  Clustering, and Data Visualization.
+   - **Packages**: TensorFlow, PyTorch, Keras, OpenCV, Numpy
+   
+
+# Others Section
+others_title: Certificates and Leadership
+others_content: | # this will include new lines to allow paragraphs
+   - Oracle Certified Expert Database SQL.
+   
+    
+
+   
+             
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
