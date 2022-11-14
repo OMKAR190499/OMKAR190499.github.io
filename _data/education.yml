@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: NorthWest Missouri State University
+  name: Trine University
   dates: 2021-2022
-  qualification: MS in Applied Computer Science
-  gpa: 4.0/4.0
+  qualification: MS in Information Systems
+  gpa: 3.8/4.0
   quote: >
     
   description: | # this will include new lines to allow paragraphs
@@ -11,9 +11,9 @@
     
 - layout: left
 
-  name: Gokaraju Rangaraju Institute of Engineering and Technology
-  dates: 2012-2016 
-  qualification: Bachelor of Technology in Information Technology
+  name: Sathyabama Institute of Science and Technology
+  dates: 2016-2020 
+  qualification: Bachelor of Technology in Computer Science
  
   quote: >
    
