@@ -1,23 +1,23 @@
 # Education Template
 - layout: left
   name: Trine University
-  dates: 2022-2022
+  dates: 2021-2022
   qualification: MS in Information Studies
   gpa: 3.8/4.0
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    - *Courses*: Java(object oriented Programming), Developing web application and services, Advanced Topics in Database Systems,Data visualization in Tableau, Mobile Computing - iOS, NodeJS,Project Management in Business & Technology, Application Design Patterns & Frameworks in java, Big Data." 
+    - *Courses*: Sql, Python, Machine Learning Java(object oriented Programming), Developing web application and services, Advanced Topics in Database Systems,Data visualization in Tableau, Mobile Computing - iOS, NodeJS,Project Management in Business & Technology, Application Design Patterns & Frameworks in java, Big Data." 
     
 - layout: left
 
   name: Sathyabama Institute of Science and Technology
   dates: 2016-2020 
-  qualification: Bachelor of Technology in Computer Science
+  qualification: Bachelor of Technology in Computer Science and Engineering
  
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    - *Relevant Courses*: Computer Programming using C, Software Engineering, Data Structures using C, Management theory and Practices, Object Oriented programming with C++,Java. 
+    - *Relevant Courses*: Computer Programming using C, Software Engineering, Data Structures using C, Management theory and Practices, Object Oriented programming with C++, Java, SQL, Python, Linux Programming. 
     
     
