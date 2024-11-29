@@ -1,28 +1,42 @@
 # Experience template
 - layout: left
-  company: Eficens Systems LLC 
-  job_title: Sr.Full Stack Developer
-  dates:  May 2022- Present
+  company: Alstom
+  job_title: Data Engineer 
+  dates:  April 2023 - Present
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
   
       **Responsibilities**
    
-       - Functionalities include writing code in HTML5, CSS3, JavaScript, Angular 1.x, Angular 2 Node.js and jQuery making use of bootstrap frameworks. My specialty is large scale CSS focusing on reusability and modularity.
-       - Developed the UI Component architecture for developer framework using Angular4, TypeScript, HTML5, CSS3 and Bootstrap. Created custom, self-contained, reusable and testable Angular 4 modules, Controllers, directives and services to implement key functionalities for customer account summary.
-       - Designed and Developed the UI using strut’s view component, JSP, HTML, CSS and JavaScript. Used JavaScript, jQuery for user interaction in pages. Creating a responsive web application integrating twitter bootstrap with AngularJs.
-       - Architect designed new web UI/UX application using AngularJs experience in implementing AngularJs best practices in performance tuning web applications and in the development, implementation of service-oriented architecture process standards, procedures and guidelines using agile methodology.
-       - Used Angular component-based architecture to integrate services to consume RESTful API’S. Worked with Angular.JS, Angular Flux and Redux architecture using complex object-oriented concepts improving the performance of websites.
-       - Created various unit test cases using to test pipes, services, components with jasmine and karma. Performed Test Driven Development (TDD) thereby creating detailed Junit tests for every single piece of functionality before writing the actual functionality and used Mockito for Behavior Driven Development (BDD).
-       - Maintain Interface compatibility and concurrency in the project using java 8 new features like default, static methods and Concurrency API. Used Java8 Method References feature to point to methods by their names, used functional Interfaces.
-       - Migrated SOAP Web service resources to Spring RESTful web services resources using Spring REST API with Spring Boot.
-       - Developed Spring boot based microservices in Docker and Amazon EC2 container using Jenkins. Developed microservices using Spring MVC, Spring Boot and Spring Cloud. Have been using microservices architecture with spring boot-based services interacting through a combination of REST and Spring Boot.
-       - Experienced in finding root cause of Apache/EWS/IHS web server, Jboss/WebSphere application server, CA Web agent.
-       - Configuring windows APIGEE servers using FTP and HTTP protocols. Using APIGEE configuration and generated proxies service discovery definition, telemetry definition, logging and security.
-       - Creating and consuming JSON-formatted data, the @RestController interface was used to expose rest APIs. knowledge of using @ResponseStatus annotations when developing web services with Spring Rest.
-       - Worked closely with web administrators to set up an automated deployment for SharePoint applications using SVN and GIT.
-       - Worked on AWS, managing the continuous delivery systems and techniques as well as deploying, maintaining, and running scalable, highly available, and fault tolerant systems (AWS).
+       - 
+       - 
+
+
+
+
+# Experience template
+- layout: left
+  company: Visa
+  job_title: Data Engineering and analytics
+  dates:  February 2022- March 2023
+  #quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+  
+      **Responsibilities**
+   
+       - Designed and managed data cleaning and transformation workflows using Excel and data visualization tools, ensuring accurate and well-organized customer and payment datasets.
+       - Collaborated with developers and analysts to integrate front-end interfaces with payment and customer data, enhancing data accessibility for stakeholders.
+       - Utilized scripting tools to automate data extraction, cleaning, and preparation, optimizing workflow efficiency. This automation reduced manual intervention, enabling faster data processing, and improved accuracy, allowing for more timely insights and data-driven decision-making across departments.
+       - Worked with sensitive customer and payment data, adhering to strict data governance and security standards, while implementing best practices for encryption, access control, and compliance with industry regulations such as GDPR and PCI-DSS.
+       - Contributed to improving the usability of data-driven applications, focusing on seamless integration and performance optimization, while ensuring robust data governance and compliance with industry standards for data security and privacy.
+       - Built and queried databases using SQL to support data retrieval and reporting needs, while optimizing queries for performance and ensuring data accuracy across various data sets.
+       - Developed pipelines for extracting, transforming, and loading (ETL) data to ensure streamlined processing, while optimizing workflows for improved data accuracy and performance.
+       - Automated repetitive tasks using Python scripts to improve data preparation workflows, reducing processing time and enhancing the overall efficiency of data integration pipelines. Leveraged advanced libraries like Pandas and NumPy to clean, transform, and validate large datasets, ensuring seamless data flow across various platforms..
+       - Handled data processing tasks using cloud-based tools like AWS S3, Redshift, or Azure, optimizing storage and retrieval processes for large datasets. Implemented automated data pipelines and ETL processes to ensure seamless data flow, ensuring data integrity and minimizing latency for real-time analytics.
+       - Worked with tools like Apache Spark, Hadoop, or Kafka for large-scale data handling, optimizing data pipelines to process and analyze real-time and batch data. Collaborated with cross-functional teams to ensure data integrity and scalability, enabling efficient insights generation and decision-making.
+       
        
 
        
